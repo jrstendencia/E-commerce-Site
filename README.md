@@ -11,12 +11,6 @@ Click below to explore the interactive prototype:
 
 ---
 
-## 🧠 Design in Figma  
-Want to peek under the hood and see how it was crafted?  
-🎨 [View](https://www.figma.com/proto/OPkPS5bdeVtTPiEK9RrMKr/digitech-ecoms?node-id=1-3&t=nwk0UdT1V1AIBH8l-1)
-
----
-
 ## 🚧 Note  
 This is a **design mockup** only – not a functional app (yet 😉). Stay tuned for the full build!
 
