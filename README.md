@@ -1,8 +1,7 @@
 # 🛍️ E-Commerce Site (Customer View) – Mockup Preview
 
 > **Welcome!**  
-> This repository features a **preview of the mockup design** for the **customer-facing side** of an e-commerce website.  
-> Designed with a focus on clean UI, intuitive UX, and modern aesthetics. This is where usability meets style!
+> This repository features a **preview of the mockup design** for the **customer-facing side** of an e-commerce website. Designed with a focus on clean UI, intuitive UX, and modern aesthetics. This is where usability meets style!
 
 ---
 
